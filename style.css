@@ -71,3 +71,14 @@ ul{
     justify-content: center;
     margin: 50px;
 }
+.me{
+    width: 40%;
+    height: 40%; 
+}
+.third{
+    margin: 200px;
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    justify-content: center;
+}
