@@ -50,6 +50,7 @@ a {
     display: flex;
     flex-direction: row; /* Ensure row layout */
     align-items: center;
+    justify-content: center;
     padding: 20px;
     text-align: left;
     gap: 20px; /* Space between text and image */
